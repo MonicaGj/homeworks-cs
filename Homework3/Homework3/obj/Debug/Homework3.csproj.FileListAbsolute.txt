@@ -1,0 +1,14 @@
+D:\sedc\c#\Homework3\Homework3\bin\Debug\Homework3.exe.config
+D:\sedc\c#\Homework3\Homework3\bin\Debug\Homework3.exe
+D:\sedc\c#\Homework3\Homework3\bin\Debug\Homework3.pdb
+D:\sedc\c#\Homework3\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+D:\sedc\c#\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+D:\sedc\c#\Homework3\Homework3\obj\Debug\Homework3.exe
+D:\sedc\c#\Homework3\Homework3\obj\Debug\Homework3.pdb
+D:\sedc\c#\homeworks\Homework3\Homework3\bin\Debug\Homework3.exe.config
+D:\sedc\c#\homeworks\Homework3\Homework3\bin\Debug\Homework3.exe
+D:\sedc\c#\homeworks\Homework3\Homework3\bin\Debug\Homework3.pdb
+D:\sedc\c#\homeworks\Homework3\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+D:\sedc\c#\homeworks\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+D:\sedc\c#\homeworks\Homework3\Homework3\obj\Debug\Homework3.exe
+D:\sedc\c#\homeworks\Homework3\Homework3\obj\Debug\Homework3.pdb
