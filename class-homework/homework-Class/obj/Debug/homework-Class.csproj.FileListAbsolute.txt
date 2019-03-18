@@ -1,0 +1,7 @@
+D:\sedc\csharp\homework-Class\homework-Class\obj\Debug\homework-Class.csprojAssemblyReference.cache
+D:\sedc\csharp\homework-Class\homework-Class\obj\Debug\homework-Class.csproj.CoreCompileInputs.cache
+D:\sedc\csharp\homework-Class\homework-Class\bin\Debug\homework-Class.exe.config
+D:\sedc\csharp\homework-Class\homework-Class\bin\Debug\homework-Class.exe
+D:\sedc\csharp\homework-Class\homework-Class\bin\Debug\homework-Class.pdb
+D:\sedc\csharp\homework-Class\homework-Class\obj\Debug\homework-Class.exe
+D:\sedc\csharp\homework-Class\homework-Class\obj\Debug\homework-Class.pdb
